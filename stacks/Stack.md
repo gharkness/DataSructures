@@ -35,7 +35,11 @@ POP(S)
 
 - [What is a Stack?](http://interactivepython.org/runestone/static/pythonds/BasicDS/WhatisaStack.html)
 - [The Stack Abstract Data Type](http://interactivepython.org/runestone/static/pythonds/BasicDS/TheStackAbstractDataType.html)
-- [Excerpt](Resources/Stacks.pdf) from [Introduction to Algorithms 3rd Edition](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1471285317&sr=8-1&keywords=introduction+to+algorithms)
+
+## Code 
+
+- [Python](stack.py)
 
 #### References
 
+- [Introduction to Algorithms 3rd Edition](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1471285317&sr=8-1&keywords=introduction+to+algorithms)
