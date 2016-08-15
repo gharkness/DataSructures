@@ -2,4 +2,4 @@
 
 ### Stack
 
-<a href="http://interactivepython.org/runestone/static/pythonds/BasicDS/WhatisaStack.html" target="_blank">Link</a>
+<a href="http://www.w3schools.com" target="_blank">Visit W3Schools</a>
