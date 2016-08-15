@@ -1,5 +1,5 @@
 # DataSructures
 
-### [Stack](structmd/stack.md)
+### [Stack](stacks/Stack.md)
 
 
