@@ -2,4 +2,4 @@
 
 ### Stack
 
-- [What is a Stack?](http://interactivepython.org/runestone/static/pythonds/BasicDS/WhatisaStack.html)
+- <a href="http://interactivepython.org/runestone/static/pythonds/BasicDS/WhatisaStack.html" target="_blank">What is a Stack?</a>
