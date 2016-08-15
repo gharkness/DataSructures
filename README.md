@@ -1,5 +1,5 @@
 # DataSructures
 
-### Stack
+### [Stack](structmd/stack.md)
 
-<a href="http://www.w3schools.com" target="_blank">Visit W3Schools</a>
+
