@@ -12,6 +12,29 @@ As [Figure 10.1](Resources/10.1.png) shows, we can implement a stack of at most 
 
 When S._top_ = 0, the stack contains no elements and is __empty__. We can test to see whether the stack is empty by query operation _STACK-EMPTY_. If we attempt to pop an empty stack, we say the stack __underflows__, which is normally an error. If S._top_ exceeds n, the stack __overflows__.
 
+### Basic Stack Abstract Data Type Interface
+
+- `Stack()`
+    + Creates a new stack that is empty. 
+    + It needs no parameters and returns an empty stack.
+- `push(item)`
+    + Adds a new item to the top of the stack. 
+    + It needs the item and returns nothing.
+- `pop()`
+    + Removes the top item from the stack. 
+    + It needs no parameters and returns the item. 
+    + The stack is modified.
+- `peek()`
+    + Returns the top item from the stack but does not remove it. 
+    + It needs no parameters. 
+    + The stack is not modified.
+- `isEmpty()`
+    + Tests to see whether the stack is empty. 
+    + It needs no parameters and returns a boolean value.
+- `size()`
+    + Returns the number of items on the stack. 
+    + It needs no parameters and returns an integer.
+
 ### Basic Pseudocode Implementation
 
 ```
@@ -35,6 +58,11 @@ POP(S)
 
 - [What is a Stack?](http://interactivepython.org/runestone/static/pythonds/BasicDS/WhatisaStack.html)
 - [The Stack Abstract Data Type](http://interactivepython.org/runestone/static/pythonds/BasicDS/TheStackAbstractDataType.html)
+- [Stack Basics in Java](http://cs.lmu.edu/~ray/notes/stacks/)
+- [Implementing a Stack in Java using Arrays and Linked Lists](http://eddmann.com/posts/implementing-a-stack-in-java-using-arrays-and-linked-lists/)
+- [Princeton CS: Stacks and Queues](http://introcs.cs.princeton.edu/java/43stack/)
+- [Java.util Stack Class Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/Stack.html)
+- [Java.util.Stack.java](http://www.docjar.com/html/api/java/util/Stack.java.html)
 
 ## Code 
 
