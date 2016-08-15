@@ -1,5 +1,5 @@
 # DataSructures
 
-### [Stack](stacks/Stack.md)
-
+- [Stack](stacks/Stack.md)
+- [Queue](queues/Queue.md)
 
